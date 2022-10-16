@@ -24,7 +24,7 @@ const Body=()=>{
                 <p>Total Reward Paidout</p>
                 <p>0$MUT</p>
             </div>   
-            <div >
+            <div className="text">
                 <button className="button">
                     <div className="button-text">
                         <p>claim 0 $MUT</p>
