@@ -44,7 +44,8 @@
 }
 .div2-text{
 
-    color: white;
+    color:white;
+    background-color: transparent;
     text-align: center;
     border-style: solid;
     border-color: #08ffa3;
@@ -54,8 +55,10 @@
 }
 .div2-text2{
     color: white;
+    background-color: transparent;
     text-align: center;
     border-style:solid;
+    border-color:white ;
     width: 15%;
     margin-left:16% ;
     display: inline-block;

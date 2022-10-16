@@ -33,12 +33,12 @@ const Body=()=>{
             </div>
         </div>
         <div className="body-div2">
-            <div className="div2-text">
-            <p>Wallet</p>
-            </div>
-            <div className="div2-text2">
-            <p>Staked</p>
-            </div>    
+            <button className="div2-text">
+            Wallet
+            </button>
+            <button className="div2-text2">
+            Staked
+            </button>    
         </div>
         <div className="body-div3">
 
